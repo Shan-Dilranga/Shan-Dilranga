@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Heart Beat](https://user-images.githubusercontent.com/84151287/185879585-a0b2e30a-7ec7-45d3-8a68-567b9aeb9cd2.png)
 
 
-!C:\Users\user\OneDrive\Pictures\hci\Heart Beat.png
