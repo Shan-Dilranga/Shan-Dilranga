@@ -2,9 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Salsa&size=40&pause=1000&color=FF005C&center=true&vCenter=true&width=1080&height=60&lines=Shan+Dilranga;UX%2FUI+Engineer" alt="Typing SVG" /></a>
 
-<a href="https://www.behance.net/shandilrangauxui"><img src="https://user-images.githubusercontent.com/84151287/190110572-a8b02ab9-dda0-4f75-89ab-559ebdc339df.svg" width="50" height="50" align="center" alt="Behance"/></a>
 
-<a href="https://www.instagram.com/invites/contact/?i=j1ys7vf36etf&utm_content=24m1qx3"><img src="https://user-images.githubusercontent.com/84151287/190108320-1971a17a-5ff3-4b9d-bda6-3345c0cc6ad7.svg" width="50" height="50" align="center" alt="Instagram"/></a>
+<a href="https://www.behance.net/shandilrangauxui"><img src="https://user-images.githubusercontent.com/84151287/190110572-a8b02ab9-dda0-4f75-89ab-559ebdc339df.svg" width="50" height="50" margin-left="300" align="left" alt="Behance"/></a>
+
+<a href="https://www.instagram.com/invites/contact/?i=j1ys7vf36etf&utm_content=24m1qx3"><img src="https://user-images.githubusercontent.com/84151287/190108320-1971a17a-5ff3-4b9d-bda6-3345c0cc6ad7.svg" width="50" height="50" align="left" alt="Instagram"/></a>
+
+<a href="www.linkedin.com/in/shan-dilranga-weerasinghe"><img src="[https://user-images.githubusercontent.com/84151287/190108320-1971a17a-5ff3-4b9d-bda6-3345c0cc6ad7.svg](https://user-images.githubusercontent.com/84151287/190113097-c12652f6-7f14-499f-9db3-fde8cec409c7.svg)" width="50" height="50" align="left" alt="LinkIn"/></a>
+ 
 <!--
 **Shan-Dilranga/Shan-Dilranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
