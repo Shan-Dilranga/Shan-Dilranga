@@ -7,7 +7,7 @@
 
 <a href="https://www.instagram.com/invites/contact/?i=j1ys7vf36etf&utm_content=24m1qx3"><img src="https://user-images.githubusercontent.com/84151287/190108320-1971a17a-5ff3-4b9d-bda6-3345c0cc6ad7.svg" width="50" height="50" align="left" alt="Instagram"/></a>
 
-<a href="www.linkedin.com/in/shan-dilranga-weerasinghe"><img src="[https://user-images.githubusercontent.com/84151287/190108320-1971a17a-5ff3-4b9d-bda6-3345c0cc6ad7.svg](https://user-images.githubusercontent.com/84151287/190113097-c12652f6-7f14-499f-9db3-fde8cec409c7.svg)" width="50" height="50" align="left" alt="LinkIn"/></a>
+<a href="www.linkedin.com/in/shan-dilranga-weerasinghe"><img src="https://user-images.githubusercontent.com/84151287/190113097-c12652f6-7f14-499f-9db3-fde8cec409c7.svg" width="50" height="50" align="left" alt="LinkIn"/></a>
  
 <!--
 **Shan-Dilranga/Shan-Dilranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 
 
 ![HeartBeat](https://user-images.githubusercontent.com/84151287/185886536-0d0b358e-36c2-4a8a-bd47-6953e21f62b5.png)
+<!--![Supplementworld](https://user-images.githubusercontent.com/84151287/190114554-7a9200af-410d-4aaf-ada9-65f5afd94c37.png)-->
+<!--<img src="https://user-images.githubusercontent.com/84151287/185886536-0d0b358e-36c2-4a8a-bd47-6953e21f62b5.png" height="350" width="600" align="left"/>-->
+<img src="https://user-images.githubusercontent.com/84151287/190114554-7a9200af-410d-4aaf-ada9-65f5afd94c37.png" height="1000" width="200" align="center"/>
 
