@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Salsa&size=40&pause=1000&color=FF005C&center=true&vCenter=true&width=1080&height=60&lines=Shan+Dilranga;UX%2FUI+Engineer" alt="Typing SVG" /></a>
 
-<a href=""><img src=""/></a>
+<a href="https://www.instagram.com/invites/contact/?i=j1ys7vf36etf&utm_content=24m1qx3"><img src="![Instagram](https://user-images.githubusercontent.com/84151287/190106117-a40b13c9-9ee0-4e23-af4a-12670505faf3.png)" alt="Instagram"/></a>
 <!--
 **Shan-Dilranga/Shan-Dilranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
