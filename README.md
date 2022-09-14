@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Salsa&size=40&pause=1000&color=FF005C&center=true&vCenter=true&width=1080&height=60&lines=Shan+Dilranga;UX%2FUI+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Salsa&size=40&pause=1000&color=FF005C&center=true&vCenter=true&width=1080&height=60&lines=Shan+Dilranga;UX%2FUI+Engineer" alt="Typing SVG" /></a>
 
 <!--
 **Shan-Dilranga/Shan-Dilranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
