@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Salsa&size=40&pause=1000&color=FF005C&center=true&vCenter=true&width=1080&height=60&lines=Shan+Dilranga;UX%2FUI+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=40&pause=1000&color=FF0050&center=true&vCenter=true&width=435&height=60&lines=Shan+Dilranga;UX%2FUI+Engineer;DevOps+Engineer" alt="Typing SVG" /></a>
 
 
 <a href="https://www.behance.net/shandilrangauxui"><img src="https://user-images.githubusercontent.com/84151287/190110572-a8b02ab9-dda0-4f75-89ab-559ebdc339df.svg" width="50" height="50" margin-left="300" align="left" alt="Behance"/></a>
