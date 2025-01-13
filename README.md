@@ -1,14 +1,35 @@
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=40&pause=1000&color=FF0050&center=true&vCenter=true&width=435&height=60&lines=Shan+Dilranga;UX%2FUI+Engineer;DevOps+Engineer" alt="Typing SVG" /></a>
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Shan%20Dilranga&fontColor=363636&fontSize=60)
 
 
-<a href="https://www.behance.net/shandilrangauxui"><img src="https://user-images.githubusercontent.com/84151287/190110572-a8b02ab9-dda0-4f75-89ab-559ebdc339df.svg" width="50" height="50" margin-left="300" align="left" alt="Behance"/></a>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&section=header&text=DevOps%20Tools&fontColor=363636&fontSize=30&&fontAlign=12)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="150" height="100" margin-left="300" align="left" alt="AWS"/>
 
-<a href="https://www.instagram.com/invites/contact/?i=j1ys7vf36etf&utm_content=24m1qx3"><img src="https://user-images.githubusercontent.com/84151287/190108320-1971a17a-5ff3-4b9d-bda6-3345c0cc6ad7.svg" width="50" height="50" align="left" alt="Instagram"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100" height="80" align="left" alt="GitHub" />
+                              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="100" height="80" align="left" alt="Ansible"/>
 
-<a href="www.linkedin.com/in/shan-dilranga-weerasinghe"><img src="https://user-images.githubusercontent.com/84151287/190113097-c12652f6-7f14-499f-9db3-fde8cec409c7.svg" width="50" height="50" align="left" alt="LinkIn"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="100" height="80" align="left" alt="Terraform"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" height="80" align="left" alt="Docker"/><br><br><br><br>
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&section=header&text=Operating%20Systems&fontColor=363636&fontSize=30&&fontAlign=16)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100" height="80" margin-left="300" align="left" alt="Linux-Ubuntu"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="100" height="80" align="left" alt="Windows" /><br><br><br><br>
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&section=header&text=Databases&fontColor=363636&fontSize=30&&fontAlign=10)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100" height="80" margin-left="300" align="left" alt="MySQL"/>
  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="80" align="left" alt="postgresql" />
+          
+          
+          
+          
+                    
 <!--
 **Shan-Dilranga/Shan-Dilranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,8 +48,6 @@ Here are some ideas to get you started:
 <!--![Heart Beat](https://user-images.githubusercontent.com/84151287/185879585-a0b2e30a-7ec7-45d3-8a68-567b9aeb9cd2.png)-->
 
 
-![HeartBeat](https://user-images.githubusercontent.com/84151287/185886536-0d0b358e-36c2-4a8a-bd47-6953e21f62b5.png)
-<!--![Supplementworld](https://user-images.githubusercontent.com/84151287/190114554-7a9200af-410d-4aaf-ada9-65f5afd94c37.png)-->
-<!--<img src="https://user-images.githubusercontent.com/84151287/185886536-0d0b358e-36c2-4a8a-bd47-6953e21f62b5.png" height="350" width="600" align="left"/>-->
-<img src="https://user-images.githubusercontent.com/84151287/190114554-7a9200af-410d-4aaf-ada9-65f5afd94c37.png" height="1000" width="200" align="center"/>
+<!--![HeartBeat](https://user-images.githubusercontent.com/84151287/185886536-0d0b358e-36c2-4a8a-bd47-6953e21f62b5.png)-->
+
 
