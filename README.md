@@ -17,6 +17,9 @@ University of Colombo School of Computing (2020 - 2023)
 
 ## 🚩 Certifications
 
+Microsoft Certified: Azure Fundamentals(AZ-900)
+ Microsoft (2025)
+
 AWS certified cloud practitioner   
  Amazon (2023)
 
