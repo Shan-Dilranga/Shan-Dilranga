@@ -62,11 +62,11 @@ Scrum Fundamentals Certified
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" align="left" alt="postgresql" /><br>
 <br>
 <br>
-## 📊 My Stats:
+<!--## 📊 My Stats: -->
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shan-Dilranga&theme=dark&background=000000)](https://git.io/streak-stats)  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shan-Dilranga&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shan-Dilranga&show_icons=true&theme=radical) -->
 
 
 
