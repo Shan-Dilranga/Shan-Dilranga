@@ -39,7 +39,7 @@ Scrum Fundamentals Certified
 
 ## ⚙️ Tools & Technologies
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=DevOps%20Tools&fontColor=363636&fontSize=20&&fontAlign=8)
+### DevOps Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" margin-left="300" align="left" alt="AWS"/>
 
@@ -57,13 +57,13 @@ Scrum Fundamentals Certified
 
 <img width="60" height="61" alt="git" src="https://github.com/user-attachments/assets/d6d0a949-9ca7-437a-9656-b9bf68418310" /><br>  
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=Operating%20Systems&fontColor=363636&fontSize=20&&fontAlign=11)
+### Operating Systems
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" margin-left="300" align="left" alt="Linux-Ubuntu"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" align="left" alt="Windows" /><br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=Databases&fontColor=363636&fontSize=20&&fontAlign=6)
+### Databases
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" margin-left="300" align="left" alt="MySQL"/>
  
