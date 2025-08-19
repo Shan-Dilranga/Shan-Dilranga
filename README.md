@@ -55,13 +55,14 @@ Scrum Fundamentals Certified
 
 <img width="50" height="50" alt="grafana-original-wordmark-8x" src="https://github.com/user-attachments/assets/aed1a01d-0c3b-4acd-873c-1360153a115b" align="left" />
 
-<img width="60" height="61" alt="git" src="https://github.com/user-attachments/assets/d6d0a949-9ca7-437a-9656-b9bf68418310" /><br>  
+<img width="60" height="61" alt="git" src="https://github.com/user-attachments/assets/d6d0a949-9ca7-437a-9656-b9bf68418310" />   
 
 ### Operating Systems
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" margin-left="300" align="left" alt="Linux-Ubuntu"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" align="left" alt="Windows" /><br>
+<br>
 
 ### Databases
 
