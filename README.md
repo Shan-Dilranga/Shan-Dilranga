@@ -34,6 +34,8 @@ Scrum Fundamentals Certified
     Security policy implementation and Management  
     Configuration management
     Scripting and automation
+    Load Testing
+    Monitoring cloud servers
 
 ## ⚙️ Tools & Technologies
 
@@ -41,13 +43,19 @@ Scrum Fundamentals Certified
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" margin-left="300" align="left" alt="AWS"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" align="left" alt="GitHub" />
+<img width="51" height="51" alt="git" src="https://github.com/user-attachments/assets/83694ec7-ff22-43a1-99a9-31054f6c6e9f" width="40" height="40" align="left"/>
                               
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" align="left" alt="Ansible"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" align="left" alt="Terraform"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" align="left" alt="Docker"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" align="left" alt="Docker" />
+
+<img alt="prometheus-plain-wordmark-8x" src="https://github.com/user-attachments/assets/0b7b0cfb-7066-4068-bbc1-01491dcd6b1f" width="50" height="50" align="left"/>  
+
+<img width="50" height="50" alt="grafana-original-wordmark-8x" src="https://github.com/user-attachments/assets/aed1a01d-0c3b-4acd-873c-1360153a115b" align="left" />
+
+<img width="60" height="61" alt="git" src="https://github.com/user-attachments/assets/d6d0a949-9ca7-437a-9656-b9bf68418310" /><br>  
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=40&section=header&text=Operating%20Systems&fontColor=363636&fontSize=20&&fontAlign=11)
 
